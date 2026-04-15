@@ -281,30 +281,10 @@ taskflow/
 
 ---
 
-## Recording Your Demo Video
-
-Here's a script for a strong 2-minute portfolio demo:
-
-**0:00 – 0:15** — Intro: "This is TaskFlow, a full-stack SaaS project management tool I built with React, FastAPI, and PostgreSQL."
-
-**0:15 – 0:40** — Show the login/register flow. Register a new user. Highlight the polished UI, custom fonts, and animations.
-
-**0:40 – 1:10** — Create a project, add 4-5 tasks with different priorities and statuses. Show the Kanban board populating in real-time. Click into a task, change its status and priority.
-
-**1:10 – 1:30** — Navigate to the Dashboard. Walk through the analytics: completion rate, tasks by status/priority charts, recent activity feed.
-
-**1:30 – 1:50** — Quick tour of the code: show the backend architecture (models → schemas → routes), the React Query hooks, and one test file. Mention the async SQLAlchemy setup.
-
-**1:50 – 2:00** — Wrap up: "Deployed on Vercel and Railway with CI/CD via GitHub Actions. Full test suite. Check out the repo at [link]."
-
-**Recording tips:** Use [OBS Studio](https://obsproject.com/) or [Loom](https://www.loom.com/). Record at 1080p. Use a clean browser profile (no bookmarks bar). Zoom your browser to 110% for readability.
-
----
-
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
 
 ---
 
-Built with care by [Your Name](https://github.com/yourusername)
+Built with care by Sai Kiran (https://github.com/saikiran-kamugari)
